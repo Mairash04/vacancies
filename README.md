@@ -1,0 +1,2 @@
+# vacancies
+simple layout
